@@ -108,19 +108,6 @@ FormStudents → CRUD + búsqueda
 
 FormStudentDetails → Registro / edición con validación
 
-▶️ Cómo ejecutar el proyecto
-
-Clonar repositorio:
-
-git clone https://github.com/tuUsuario/SGEstudiantes.git
-
-
-Abrir el proyecto en Visual Studio
-
-Restaurar dependencias (automático)
-
-Ejecutar ▶️
-
 📦 Base de datos (opcional)
 
 El proyecto funciona en memoria.
